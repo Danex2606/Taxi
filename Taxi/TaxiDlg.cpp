@@ -82,7 +82,11 @@ BOOL CTaxiDlg::OnInitDialog()
 	// IDM_ABOUTBOX должен быть в пределах системной команды.
 	ASSERT((IDM_ABOUTBOX & 0xFFF0) == IDM_ABOUTBOX);
 	ASSERT(IDM_ABOUTBOX < 0xF000);
-// Тестируем
+
+	// Тестируем
+
+	//Стратегия слияния 1
+
 	CMenu* pSysMenu = GetSystemMenu(FALSE);
 	if (pSysMenu != nullptr)
 	{
