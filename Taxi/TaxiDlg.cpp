@@ -72,8 +72,10 @@ END_MESSAGE_MAP()
 
 BOOL CTaxiDlg::OnInitDialog()
 {
+	// 1234
 	CDialogEx::OnInitDialog();
-
+	//I want to eat
+	// Test conflicts
 	// Добавление пункта "О программе..." в системное меню.
 
 	// IDM_ABOUTBOX должен быть в пределах системной команды.
