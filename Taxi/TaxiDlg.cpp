@@ -66,6 +66,7 @@ BEGIN_MESSAGE_MAP(CTaxiDlg, CDialogEx)
 	ON_WM_PAINT()
 	ON_WM_QUERYDRAGICON()
 END_MESSAGE_MAP()
+	
 
 
 // Обработчики сообщений CTaxiDlg
